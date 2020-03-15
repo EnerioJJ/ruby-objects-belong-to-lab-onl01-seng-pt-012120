@@ -10,4 +10,4 @@
   end
 end
 
-masashi = Artist.new("")
+masashi = Artist.new("Masashi ")
