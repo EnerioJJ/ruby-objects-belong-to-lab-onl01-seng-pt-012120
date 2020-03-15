@@ -14,4 +14,4 @@ class Song
   end
 end
 
-company = 
+masumusic = Song.new("The Splendid Performance")
