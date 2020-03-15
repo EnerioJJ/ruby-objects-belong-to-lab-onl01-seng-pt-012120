@@ -10,3 +10,4 @@
   end
 end
 
+masashi = Artist.new("")
