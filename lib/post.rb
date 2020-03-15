@@ -6,3 +6,4 @@ class Post
   end
 end
 
+rose = Post.new("A Rose for Emily")
