@@ -10,3 +10,4 @@ class Author
   end
 end
 
+faulkner = Author.new("William Faulkner")
