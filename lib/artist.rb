@@ -9,3 +9,4 @@
     self.artist.name
   end
 end
+
