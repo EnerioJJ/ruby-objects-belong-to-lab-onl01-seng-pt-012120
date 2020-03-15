@@ -5,8 +5,8 @@
     @name = name
   end
   
-  def artist
-    self.artist.name
+  def name
+    @name
   end
 end
 
